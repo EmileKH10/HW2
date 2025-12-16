@@ -1,4 +1,9 @@
 # HW2
+##Students:
+Emile Khamis 
+Mahmoud Jabareen
+Paula Waiter
+##group number: 100
 
 ## Description
 This repository contains Homework 2 for the Web course.  
